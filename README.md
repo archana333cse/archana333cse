@@ -5,8 +5,8 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to listing melody and play guitar...
+- 🥅 2023 Goals: Contribute and explore my coadin knowledge
+- ⚡ Fun fact: I love to listing to music and travelling...
 
 <h1>Languages and Tools:</h1>
  <ul>           
