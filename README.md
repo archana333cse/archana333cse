@@ -1,6 +1,6 @@
 <h1> Hi there , I'm <a href="https://www.linkedin.com/in/archana333cse/">Archna Panday </a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="4%"></a></h1>
 <a href="https://github.com/archana333cse/"></a>
-            <img src="https://komarev.com/ghpvc/?username=shubh-151">
+            <img src="https://komarev.com/ghpvc/?username=archana333cse">
         
 
 - 🌱 I’m currently learning everything 🤣
