@@ -1,16 +1,40 @@
-### Hi there 👋
+<h1> Hi there , I'm <a href="https://www.linkedin.com/in/shubhin151/">Shubham Shukla </a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="4%"></a></h1>
+<a href="https://github.com/shubh-151/"></a>
+            <img src="https://komarev.com/ghpvc/?username=shubh-151">
+        
 
-<!--
-**archana333cse/archana333cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2023 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to listing melody and play guitar...
 
-Here are some ideas to get you started:
+<h1>Languages and Tools:</h1>
+ <ul>           
+            <li>React JS</li>
+             <li>JavaScript</li>
+             <li>HTML</li>
+            <li>CSS</li>
+            <li>Bootstrap</li>
+ </ul>
+<h2>Programming Langauge:-</h2>
+<ul>
+            <li>Core Java</li>     
+                       
+          
+</ul>
+<h2>Scripting Langauge:-</h2>
+<ul>
+            <li>Java Script</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+ <h1>Coding Profile</h1>
+ <a href="https://www.hackerrank.com/shubhin151"><img src="https://info.hackerrank.com/rs/487-WAY-049/images/Podcast-ChannelCover-Final.jpg" width="40" /></a>
+ <a href="https://auth.geeksforgeeks.org/user/shubhin151/profile"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" width="40"></a>
+
+
+
+
+
+
