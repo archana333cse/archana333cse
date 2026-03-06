@@ -64,10 +64,10 @@
 
 ### 🧩 Coding Profiles
 <p>
-  <a href="https://www.hackerrank.com/archana333cse" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.hackerrank.com/archana333cse" >
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/profile/archana333cse" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.geeksforgeeks.org/profile/archana333cse" >
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 </p>
@@ -76,10 +76,10 @@
 
 ### 📫 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/archana333cse/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/archana333cse/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://github.com/archana333cse" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/archana333cse" >
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
