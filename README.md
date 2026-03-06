@@ -105,34 +105,27 @@ Web Developer | Linux & Web Hosting | Backend Enthusiast | DSA Learner 🚀
 
 ---
 
-# 🔥 GitHub Streak
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=archana333cse&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=archana333cse&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=archana333cse&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-# 📈 GitHub Activity Graph
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=archana333cse&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=archana333cse&theme=tokyo-night"/>
-</p>
-
----
-
-# 🧩 Coding Profiles
-
-<p align="center">
-
-<a href="https://www.hackerrank.com/archana333cse">
-<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/archana333cse">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
 </p>
 
 ---
