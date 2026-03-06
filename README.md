@@ -105,11 +105,6 @@ Java Developer | Backend Enthusiast | DSA Learner | Tech Explorer 🚀
 
 </p>
 
-### Direct Links
-- HackerRank → https://www.hackerrank.com/archana333cse  
-- GeeksforGeeks → https://www.geeksforgeeks.org/profile/archana333cse  
-
----
 
 # 📫 Connect With Me
 
@@ -125,11 +120,7 @@ Java Developer | Backend Enthusiast | DSA Learner | Tech Explorer 🚀
 
 </p>
 
-### Direct Links
-- LinkedIn → https://www.linkedin.com/in/archana333cse/  
-- GitHub → https://github.com/archana333cse  
 
----
 
 # ⭐ Quote
 
