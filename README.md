@@ -67,7 +67,7 @@
   <a href="https://www.hackerrank.com/archana333cse">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/archana333.cse/profile">
+  <a href="https://www.geeksforgeeks.org/profile/archana333cse">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 </p>
