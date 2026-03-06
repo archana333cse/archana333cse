@@ -1,89 +1,136 @@
 <h1 align="center">
-  Hi there 👋, I'm 
-  <a href="https://www.linkedin.com/in/archana333cse/">Archna Pandey</a>
+Hi 👋, I'm <a href="https://www.linkedin.com/in/archana333cse/">Archana Pandey</a>
 </h1>
 
 <h3 align="center">
-  Java Developer | Backend Enthusiast | DSA Learner | Tech Explorer 🚀
+Java Developer | Backend Enthusiast | DSA Learner | Tech Explorer 🚀
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=archana333cse&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Backend+Developer;DSA+Learner;Open+Source+Enthusiast&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=archana333cse&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-### 👩‍💻 About Me
-- 🌱 Currently learning **DSA, System Design & Full-Stack Development**
-- 👯 Open to collaborating on **Java, Backend & Web Projects**
-- 🥅 **Goals:** Build scalable applications & contribute to Open Source
-- ⚡ Fun fact: I love 🎵 music, ✈️ travelling & exploring new tech
+# 👩‍💻 About Me
+
+- 🌱 Currently learning **DSA, System Design & Full Stack Development**
+- 💻 Passionate about **Backend Development**
+- 🤝 Open to collaborating on **Java & Web Development Projects**
+- 🎯 Goal: **Build scalable applications & contribute to Open Source**
+- ⚡ Fun fact: I love **Music 🎵 | Travelling ✈️ | Exploring Tech 🚀**
 
 ---
 
-### 🛠️ Languages & Technologies
+# 🛠️ Tech Stack
 
-#### 💻 Programming Languages
+### 💻 Programming Languages
 <p>
- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript"/>
 </p>
 
-#### 🚀 Backend & Frameworks
+### 🚀 Backend Development
 <p>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs"/>
 </p>
 
-#### 🌐 Frontend Technologies
+### 🌐 Frontend Development
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
 </p>
 
-#### 🧠 DSA & Problem Solving
-- Arrays, Strings, Linked List  
+### ☁️ Tools & Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode"/>
+</p>
+
+---
+
+# 🧠 Problem Solving & DSA
+
+- Arrays  
+- Strings  
+- Linked Lists  
 - Stack & Queue  
-- Recursion & Sorting  
+- Recursion  
+- Sorting Algorithms  
 - Time & Space Complexity  
-- Competitive Coding  
+- Competitive Programming  
 
-#### ☁️ Tools, Databases & Hosting
-<p>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Web_Hosting-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=archana333cse&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=archana333cse&theme=tokyonight"/>
+
 </p>
 
 ---
 
-### 🧩 Coding Profiles
-<p>
-  <a href="https://www.hackerrank.com/archana333cse" >
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/archana333cse" >
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
+# 📈 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=archana333cse&theme=tokyo-night"/>
 </p>
 
 ---
 
-### 📫 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/archana333cse/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/archana333cse" >
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=archana333cse&theme=flat&no-frame=true&margin-w=10"/>
 </p>
 
 ---
 
-⭐ **“Code. Learn. Improve. Repeat.”**
+# 🧩 Coding Profiles
+
+<p align="center">
+
+<a href="https://www.hackerrank.com/archana333cse">
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/archana333cse">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+</p>
+
+### Direct Links
+- HackerRank → https://www.hackerrank.com/archana333cse  
+- GeeksforGeeks → https://www.geeksforgeeks.org/profile/archana333cse  
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/archana333cse/">
+<img src="https://img.shields.io/badge/LinkedIn-Archana%20Pandey-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/archana333cse">
+<img src="https://img.shields.io/badge/GitHub-archana333cse-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+### Direct Links
+- LinkedIn → https://www.linkedin.com/in/archana333cse/  
+- GitHub → https://github.com/archana333cse  
+
+---
+
+# ⭐ Quote
+
+> **Code. Learn. Improve. Repeat. 🚀**
