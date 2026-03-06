@@ -49,6 +49,20 @@ Web Developer | Web Hosting | Linux | Backend Enthusiast | DSA Learner | Tech Ex
 </p>
 
 ---
+## 🖥️ Web Hosting & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,apache,docker,git"/>
+</p>
+
+- 🌐 Website Hosting & Server Management  
+- 🖥️ Virtual Machine (VM) Management  
+- 🐧 Linux Server Administration  
+- ⚙️ Nginx & Apache Web Server Configuration  
+- 🔐 SSL Certificate Installation & Renewal  
+- 📦 Deployment & Hosting Support  
+- 🗄️ MySQL Database Management  
+- 🔧 Troubleshooting Hosting & Server Issues
 
 # 🧠 Problem Solving & DSA
 
