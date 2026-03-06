@@ -7,7 +7,7 @@ Web Developer | Web Hosting | Linux | Backend Enthusiast | DSA Learner | Tech Ex
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer; Web+Hosting;Backend+Developer;DSA+Learner;Open+Source+Enthusiast&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Web+Hosting;Backend+Developer;DSA+Learner;Open+Source+Enthusiast&center=true&width=500&height=45">
 </p>
 
 <p align="center">
