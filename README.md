@@ -99,9 +99,9 @@ Web Developer | Linux & Web Hosting | Backend Enthusiast | DSA Learner 🚀
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=archana333cse&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=archana333cse&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=archana333cse&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=archana333cse&layout=compact&theme=tokyonight"/>
 
 </p>
 
