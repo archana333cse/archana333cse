@@ -3,11 +3,11 @@ Hi 👋, I'm <a href="https://www.linkedin.com/in/archana333cse/">Archana Pandey
 </h1>
 
 <h3 align="center">
-Web Developer | Web Hosting | Linux | Backend Enthusiast | DSA Learner | Tech Explorer 🚀
+Web Developer | Linux & Web Hosting | Backend Enthusiast | DSA Learner 🚀
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Web+Hosting;Backend+Developer;DSA+Learner;Open+Source+Enthusiast&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Linux+Server+Administration;Backend+Developer;Web+Hosting+Engineer;DSA+Learner;Open+Source+Enthusiast&center=true&width=500&height=45">
 </p>
 
 <p align="center">
@@ -18,11 +18,13 @@ Web Developer | Web Hosting | Linux | Backend Enthusiast | DSA Learner | Tech Ex
 
 # 👩‍💻 About Me
 
-- 🌱 Currently learning **DSA, System Design & Full Stack Development**
-- 💻 Passionate about **Backend Development**
-- 🤝 Open to collaborating on **Java & Web Development Projects**
+- 💻 Working in **Web Hosting & Server Infrastructure**
+- 🌱 Currently learning **Data Structures, System Design & Full Stack Development**
+- 🐧 Experienced with **Linux Server Management**
+- 🌐 Passionate about **Backend Development & Web Infrastructure**
+- 🤝 Open to collaborating on **Java / Web / Backend Projects**
 - 🎯 Goal: **Build scalable applications & contribute to Open Source**
-- ⚡ Fun fact: I love **Music 🎵 | Travelling ✈️ | Exploring Tech 🚀**
+- ⚡ Fun fact: I enjoy **Music 🎵 | Travelling ✈️ | Exploring Technology 🚀**
 
 ---
 
@@ -43,26 +45,42 @@ Web Developer | Web Hosting | Linux | Backend Enthusiast | DSA Learner | Tech Ex
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
 </p>
 
-### ☁️ Tools & Databases
+### 🗄️ Databases & Tools
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode"/>
 </p>
 
 ---
-## 🖥️ Web Hosting & Infrastructure
+
+# 🖥️ Web Hosting & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,apache,docker,git"/>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,apache,docker"/>
 </p>
 
 - 🌐 Website Hosting & Server Management  
 - 🖥️ Virtual Machine (VM) Management  
 - 🐧 Linux Server Administration  
-- ⚙️ Nginx & Apache Web Server Configuration  
+- ⚙️ Apache & Nginx Web Server Configuration  
 - 🔐 SSL Certificate Installation & Renewal  
-- 📦 Deployment & Hosting Support  
 - 🗄️ MySQL Database Management  
-- 🔧 Troubleshooting Hosting & Server Issues
+- 📦 Application Deployment & Hosting Support  
+- 🔧 Troubleshooting Server & Hosting Issues  
+
+---
+
+# 💼 Professional Experience
+
+### Web Hosting & Server Support
+
+- Managing **Linux based hosting servers**
+- Handling **Virtual Machine provisioning & maintenance**
+- Configuring **Apache & Nginx web servers**
+- Installing and renewing **SSL certificates**
+- Supporting users with **website hosting & deployment**
+- Troubleshooting **server and hosting related issues**
+
+---
 
 # 🧠 Problem Solving & DSA
 
@@ -77,14 +95,22 @@ Web Developer | Web Hosting | Linux | Backend Enthusiast | DSA Learner | Tech Ex
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=archana333cse&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=archana333cse&show_icons=true&theme=tokyonight"/>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archana333cse&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=archana333cse&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -96,8 +122,6 @@ Web Developer | Web Hosting | Linux | Backend Enthusiast | DSA Learner | Tech Ex
 </p>
 
 ---
-
-
 
 # 🧩 Coding Profiles
 
@@ -113,6 +137,7 @@ Web Developer | Web Hosting | Linux | Backend Enthusiast | DSA Learner | Tech Ex
 
 </p>
 
+---
 
 # 📫 Connect With Me
 
@@ -128,8 +153,8 @@ Web Developer | Web Hosting | Linux | Backend Enthusiast | DSA Learner | Tech Ex
 
 </p>
 
+---
 
-
-# ⭐ Quote
+# ⭐ Developer Quote
 
 > **Code. Learn. Improve. Repeat. 🚀**
