@@ -3,7 +3,7 @@ Hi 👋, I'm <a href="https://www.linkedin.com/in/archana333cse/">Archana Pandey
 </h1>
 
 <h3 align="center">
-Java Developer | Backend Enthusiast | DSA Learner | Tech Explorer 🚀
+Web Developer | Web Hosting | Linux | Backend Enthusiast | DSA Learner | Tech Explorer 🚀
 </h3>
 
 <p align="center">
