@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi 👋, I'm <a href="https://www.linkedin.com/in/archana333cse/">Archana Pandey</a>
+Hi 👋, I'm <a href="https://www.linkedin.com/in/archana333cse/">Archna Pandey</a>
 </h1>
 
 <h3 align="center">
