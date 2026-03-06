@@ -83,13 +83,7 @@ Java Developer | Backend Enthusiast | DSA Learner | Tech Explorer 🚀
 
 ---
 
-# 🏆 GitHub Achievements
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=archana333cse&theme=flat&no-frame=true&margin-w=10"/>
-</p>
-
----
 
 # 🧩 Coding Profiles
 
